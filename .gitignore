@@ -1,0 +1,11 @@
+# .gitignore: files git should pretend don't exist (they won't go to GitHub)
+# One pattern per line. Lines starting with # are comments.
+
+# Personal notes for Claude Code
+CLAUDE.md
+
+# Hidden folder-settings file that Macs create automatically
+.DS_Store
+
+# Python's automatic cache files (made when Python runs your code)
+__pycache__/
